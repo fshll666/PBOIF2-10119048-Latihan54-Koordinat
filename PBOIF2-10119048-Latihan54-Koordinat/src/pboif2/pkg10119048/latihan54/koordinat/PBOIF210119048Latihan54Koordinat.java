@@ -8,6 +8,10 @@ package pboif2.pkg10119048.latihan54.koordinat;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Menampilkan Program Koordinat
  */
 public class PBOIF210119048Latihan54Koordinat {
 
